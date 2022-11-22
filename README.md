@@ -7,7 +7,7 @@
 Front-end: `TypeScript`, `JavaScript`, `React.js`, `Next.js`, `Tailwind`, `SASS`, `HTML` </br>
 Back-end: `Node.js`, `Python` </br>
 Database: `MongoDB`, `PostgreSQL`, `MySQL` </br>
-Tools: `Firebase`, `AWS`, `Git`, `Adobe Illustrator`, `Adobe XD`, `Adobe Photoshop` </br>
+Tools: `Firebase`, `AWS`, `Git`, `Adobe Illustrator`, `Adobe XD`, `Adobe Photoshop`, `Prisma`, `Sanity` </br>
 
 #### ⚒️ — Currently working on.
 - `Portfolio Website`

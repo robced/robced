@@ -9,13 +9,13 @@ const robced = {
     likes: [ "Videogames", "Languages", "Reading", "Anime" ],
     languages: [ "Spanish", "German", "English" ],
     coding: {
-      languages: [ "Java", "TypeScript", "Python" ],
-      technologies: [ "Node.js", "Express.js", "Next.js", "Git" ]
-      }      
+        languages: [ "Java", "TypeScript", "Python" ],
+        technologies: [ "Node.js", "Express.js", "Next.js", "Git" ]
+    }      
 }
 
 const learnignGoals = {
-    languages: [ "Intermidiate Portuguese", "Beginner Japanese" ],
+    languages: [ "Intermediate Portuguese", "Beginner Japanese" ],
     programming: [ "Java Mastery", "Software Architecure", "Software Development Life Cycle" ]
 }
 

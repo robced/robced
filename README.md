@@ -14,8 +14,8 @@ const robced = {
     }      
 }
 
-const learnignGoals = {
-    languages: [ "Intermediate Portuguese", "Beginner Japanese" ],
+const learningGoals = {
+    languages: [ "Portuguese", "Japanese" ],
     programming: [ "Java Mastery", "Software Architecure", "Software Development Life Cycle" ]
 }
 

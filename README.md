@@ -16,6 +16,7 @@ const robced = {
 
 const learningGoals = {
     languages: [ "Portuguese", "Japanese" ],
+    topics: ["Concurrency and Multithreading", "Memory", "Networking and Socketing", "Cache", "Cryptography"]
 }
 
 ```
